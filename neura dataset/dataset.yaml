@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolo_data/train/images  # Train images directory
+val: /content/drive/MyDrive/yolo_data/val/images  # Validation images directory
+test: /content/drive/MyDrive/yolo_data/test/images  # Test images directory (optional)
+
+nc: 3  # Number of classes
+names: ['tree', building', 'wall']  # Class names
